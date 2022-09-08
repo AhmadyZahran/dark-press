@@ -1,6 +1,6 @@
 # dark-press
 
-this is my project by using wordpress, we use theme and plug-ins, in order to build an E-commerce website,
+this is my project by using wordpress, we use theme dark-press and plug-ins, in order to build an E-commerce website,
 
 my idea was a Electronic Devices online store, conatians on a deffirent types of Electronic Devices, with 5 pages,
 
